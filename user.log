@@ -1,0 +1,37 @@
+2023-02-03T12:32:49.701644-05:00 KALIFORNIAGL mtp-probe: checking bus 2, device 3: "/sys/devices/pci0000:00/0000:00:14.0/usb2/2-3"
+2023-02-03T12:32:49.701651-05:00 KALIFORNIAGL mtp-probe: checking bus 2, device 6: "/sys/devices/pci0000:00/0000:00:14.0/usb2/2-9"
+2023-02-03T12:32:49.701662-05:00 KALIFORNIAGL mtp-probe: checking bus 2, device 4: "/sys/devices/pci0000:00/0000:00:14.0/usb2/2-4"
+2023-02-03T12:32:49.701668-05:00 KALIFORNIAGL mtp-probe: checking bus 2, device 2: "/sys/devices/pci0000:00/0000:00:14.0/usb2/2-2"
+2023-02-03T12:32:49.701675-05:00 KALIFORNIAGL mtp-probe: checking bus 4, device 2: "/sys/devices/pci0000:00/0000:00:14.0/usb4/4-6"
+2023-02-03T12:32:49.701685-05:00 KALIFORNIAGL mtp-probe: checking bus 2, device 7: "/sys/devices/pci0000:00/0000:00:14.0/usb2/2-13"
+2023-02-03T12:32:49.701694-05:00 KALIFORNIAGL mtp-probe: checking bus 2, device 5: "/sys/devices/pci0000:00/0000:00:14.0/usb2/2-6"
+2023-02-03T12:32:49.701702-05:00 KALIFORNIAGL mtp-probe: bus: 2, device: 5 was not an MTP device
+2023-02-03T12:32:49.701713-05:00 KALIFORNIAGL mtp-probe: bus: 2, device: 4 was not an MTP device
+2023-02-03T12:32:49.701721-05:00 KALIFORNIAGL mtp-probe: bus: 2, device: 7 was not an MTP device
+2023-02-03T12:32:49.701728-05:00 KALIFORNIAGL mtp-probe: bus: 2, device: 6 was not an MTP device
+2023-02-03T12:32:49.701738-05:00 KALIFORNIAGL mtp-probe: bus: 4, device: 2 was not an MTP device
+2023-02-03T12:32:49.701745-05:00 KALIFORNIAGL mtp-probe: bus: 2, device: 3 was not an MTP device
+2023-02-03T12:32:49.701759-05:00 KALIFORNIAGL mtp-probe: bus: 2, device: 2 was not an MTP device
+2023-02-03T12:32:52.929823-05:00 KALIFORNIAGL pulseaudio[1497]: The decibel volume range for element 'Mic' (-3000 dB - -100 dB) has negative maximum. Disabling the decibel range.
+2023-02-03T12:35:02.915644-05:00 KALIFORNIAGL pulseaudio[1497]: Error opening PCM device hdmi:2,1: Permission denied
+2023-02-03T12:35:02.915740-05:00 KALIFORNIAGL pulseaudio[1497]: Error opening PCM device hw:0,0,0: No such file or directory
+2023-02-03T12:35:02.915795-05:00 KALIFORNIAGL pulseaudio[1497]: Error opening PCM device hw:0,1,0: No such file or directory
+2023-02-03T12:35:02.915905-05:00 KALIFORNIAGL pulseaudio[1497]: Error opening PCM device front:1: No such file or directory
+2023-02-03T12:35:02.915965-05:00 KALIFORNIAGL pulseaudio[1497]: Error opening PCM device hw:0,0,0: No such file or directory
+2023-02-03T12:35:03.409078-05:00 KALIFORNIAGL pulseaudio[1865]: The decibel volume range for element 'Mic' (-3000 dB - -100 dB) has negative maximum. Disabling the decibel range.
+2023-02-03T12:37:14.609803-05:00 KALIFORNIAGL xdg-desktop-portal[2052]: pw.conf: can't load config client.conf: No such file or directory
+2023-02-03T12:37:14.609962-05:00 KALIFORNIAGL xdg-desktop-portal[2052]: pw.conf: can't load default config client.conf: No such file or directory
+2023-02-03T12:37:14.610053-05:00 KALIFORNIAGL xdg-desktop-por[2052]: Failed connect to PipeWire: Couldn't create PipeWire context
+2023-02-03T12:37:19.073670-05:00 KALIFORNIAGL udisksd[2587]: udisks daemon version 2.9.4 starting
+2023-02-03T12:37:19.085121-05:00 KALIFORNIAGL udisksd[2587]: failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory
+2023-02-03T12:37:19.091887-05:00 KALIFORNIAGL udisksd[2587]: Failed to load the 'mdraid' libblockdev plugin
+2023-02-03T12:37:19.563793-05:00 KALIFORNIAGL udisksd[2587]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+2023-02-03T12:37:19.759819-05:00 KALIFORNIAGL goa-daemon[2644]: goa-daemon version 3.46.0 starting
+2023-02-03T12:37:29.444087-05:00 KALIFORNIAGL org.freedesktop.portal.Documents[3312]: Ignoring invalid max threads value 4294967295 > max (100000).
+2023-02-03T12:37:29.493031-05:00 KALIFORNIAGL org.freedesktop.portal.Desktop[3307]: [W][00286.477481] pw.conf      | [          conf.c:  939 try_load_conf()] can't load config client.conf: No such file or directory
+2023-02-03T12:37:29.493090-05:00 KALIFORNIAGL org.freedesktop.portal.Desktop[3307]: [E][00286.477528] pw.conf      | [          conf.c:  963 pw_conf_load_conf_for_context()] can't load default config client.conf: No such file or directory
+2023-02-03T12:37:29.493132-05:00 KALIFORNIAGL xdg-desktop-portal[3307]: pw.conf: can't load config client.conf: No such file or directory
+2023-02-03T12:37:29.493196-05:00 KALIFORNIAGL xdg-desktop-portal[3307]: pw.conf: can't load default config client.conf: No such file or directory
+2023-02-03T12:37:29.493310-05:00 KALIFORNIAGL xdg-desktop-por[3307]: Failed connect to PipeWire: Couldn't create PipeWire context
+2023-02-03T12:37:29.498991-05:00 KALIFORNIAGL org.freedesktop.secrets[3375]: GNOME_KEYRING_CONTROL=/root/.cache/keyring-OFIPZ1
+2023-02-03T12:37:29.730097-05:00 KALIFORNIAGL goa-daemon[3416]: goa-daemon version 3.46.0 starting
